@@ -138,16 +138,3 @@ Star and snowflake schemas designed with the BI team — **40% query time reduct
 5. Apply KMS CMK to S3 bucket (default encryption) and Redshift cluster
 6. Configure IAM roles per service with least-privilege policies
 
----
-
-## Based On
-
-Real work on the **AT&T data pipeline at HGS** — Sep 2020 to Sep 2021. Replaced daily batch loads with sub-minute CDC delivery to Redshift, with automated governance across schema changes, data quality, and access control for a regulated telecom data environment.
-
----
-
-## Author
-
-**Premchand Kothapalli**
-Senior AI / ML Engineer | AWS · Azure AI Foundry · LangGraph · PySpark
-[LinkedIn](https://linkedin.com/in/pc-kothapalli) · premchandkdata@gmail.com · [GitHub](https://github.com/premchand2001)
